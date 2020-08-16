@@ -1,5 +1,5 @@
-# scribe-rs
+# scribe
 
 Note taking utility with tag lookup and search functionality.
 
-First project.  Needs work.
+First pass, rough, needs work.
